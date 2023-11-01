@@ -1,0 +1,6 @@
+*.exe
+cppbuilds.sublime-build
+inputf.in
+outputf.out
+Package Control.sublime-settings
+Preferences.sublime-settings
