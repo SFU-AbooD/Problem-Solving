@@ -46,8 +46,8 @@ void solve()
 {
     int64_t a;cin >> a;
     vector<int64_t> v(a);for(int64_t &e : v)cin >> e;
-    map<int64_t,int64_t>vesya;
-    map<int64_t,int64_t>petya;
+    unordered_map<int64_t,int64_t>vesya;
+    unordered_map<int64_t,int64_t>petya;
     int64_t vesya_com = 0;
     int64_t petya_com = 0;
     for(int i = 1;i <=a;i++)
