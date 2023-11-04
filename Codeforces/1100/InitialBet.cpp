@@ -1,3 +1,4 @@
+//https://codeforces.com/problemset/problem/478/A
 #include <algorithm>
 #include <array>
 #include <bitset>
