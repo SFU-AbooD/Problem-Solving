@@ -4,3 +4,5 @@ inputf.in
 outputf.out
 Package Control.sublime-settings
 Preferences.sublime-settings
+venv
+.idea
